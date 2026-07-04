@@ -1,0 +1,12 @@
+Business Rule 1
+
+Cancelled orders are excluded because
+they do not contribute to realised revenue.
+
+Business Rule 2
+
+Only active customers are included.
+
+Business Rule 3
+
+Dates are standardised to UTC.
