@@ -1,0 +1,13 @@
+
+------------------------------------------------------------
+-- Transformation ID : TR001
+-- Date              : 2026-07-04
+-- Purpose           : Standardise province values
+-- Reason            : Source data contains inconsistent
+--                     capitalisation affecting grouping.
+-- Source            : customers.province
+-- Target            : customers.province
+------------------------------------------------------------
+
+UPDATE customers
+SET province = UPPER(province);
