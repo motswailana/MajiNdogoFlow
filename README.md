@@ -101,21 +101,37 @@ The analysis follows a structured workflow designed to mirror professional analy
 # Repository Structure
 
 ├── README.md
+|
 ├── CHANGELOG.md
+|
 ├── datasetss/
+|
 |── docs/
+|
 │   ├── assumptions/
+|
 │   ├── business_rules/
+|
 │   ├── data_dictionary/
+|
 │   └── transformation_register.md
+|
 ├── outputs/
+|
 │   └── query_results/
+|
 |   |── visualisations/
+|
 │───scripts/
+|
 |   |── analysis/
+|
 |   |── data_quality_checks/
+|
 |   |── stored_procedures
+|
 |   |── validation
+|
 └── |── views
 
 
