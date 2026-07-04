@@ -120,9 +120,9 @@ The analysis follows a structured workflow designed to mirror professional analy
 
 ├── outputs/
 
-│    ├── visualisations/
+│    ├── query_results/
 
-|    └── query_results/
+|    └── visualisations/
 
 ├── sql_library/
 
